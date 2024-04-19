@@ -1,12 +1,20 @@
 body{
-    background-color: #4a5ab8;
+    background-color: #000000;
+    color: #ffffff;
 }
 
 .cabeçalho{
     display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px;
 }
 
-
+.cabeçalho-lista-item{
+        display: inline-block;
+        margin: 0 18px;
+        font-size: 24px;
+}
 
 .logo{
     width: 25%;
