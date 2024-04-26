@@ -19,3 +19,11 @@ body{
 .logo{
     width: 30%;
 }
+
+.escola-img{
+    width: 25%;
+}
+
+.escola{
+    background-image: -moz-linear-gradient(#083c5a,#0bf0b7);
+}
